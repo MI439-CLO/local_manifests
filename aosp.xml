@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+<!-- Apps -->
+<project path="packages/apps/GrapheneCam" name="MI439-CLO/android_packages_apps_GrapheneCam" remote="github" revision="topaz" clone-depth="1" />
+
 <!-- Kernel -->
 <project path="kernel/xiaomi/sdm439" name="MI439-CLO/android_kernel_xiaomi_sdm439" remote="github" clone-depth="1" revision="master" />
 
