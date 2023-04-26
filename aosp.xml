@@ -15,8 +15,6 @@
 
 <!-- Device QCOM -->
 <project path="device/qcom/common" name="MI439-CLO/android_device_qcom_common" remote="github" revision="tm2" />
-<project path="device/qcom/qssi" name="AOSPA/android_device_qcom_qssi" remote="github" revision="topaz" />
-<project path="device/qcom/vendor-common" name="AOSPA/android_device_qcom_vendor-common" remote="github" revision="topaz" />
 
 <!--- Vendor Blobs -->
 <project path="vendor/xiaomi/mi439" name="MI439-CLO/proprietary_vendor_xiaomi_mi439" remote="github" clone-depth="1" revision="13" />
