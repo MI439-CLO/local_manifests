@@ -18,7 +18,7 @@
 
 <!--- Vendor Blobs -->
 <project path="vendor/xiaomi/mi439" name="MI439-CLO/proprietary_vendor_xiaomi_mi439" remote="github" clone-depth="1" revision="tm" />
-<project path="vendor/qcom/common" name="ThankYouMario/proprietary_vendor_qcom_common" remote="github" clone-depth="1" revision="topaz" />
+<project path="vendor/qcom/common" name="LOLZKERNEL/proprietary_vendor_qcom_common" remote="github" clone-depth="1" revision="topaz" />
 
 <!-- Vendor Opensource -->
 <project path="vendor/qcom/opensource/core-utils" name="PixelExperience/vendor_qcom_opensource_core-utils" remote="github" revision="thirteen" />
