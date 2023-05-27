@@ -5,7 +5,7 @@
 <project path="packages/apps/GrapheneCam" name="MI439-CLO/android_packages_apps_GrapheneCam" remote="github" revision="topaz" clone-depth="1" />
 
 <!-- Kernel -->
-<project path="kernel/xiaomi/sdm439" name="AOSPA/android_kernel_xiaomi_sdm439" remote="github" clone-depth="1" revision="topaz" />
+<project path="kernel/xiaomi/sdm439" name="MI439-CLO/android_kernel_xiaomi_sdm439" remote="github" clone-depth="1" revision="topaz" />
 
 <!-- HALs -->
 <project path="hardware/mithorium" name="Mi-Thorium/android_hardware_mithorium-4.9" remote="github" clone-depth="1" revision="lineage-19.1-k4.9" />
