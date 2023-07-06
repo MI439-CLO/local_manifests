@@ -11,7 +11,7 @@
 <project path="hardware/mithorium" name="MI439-CLO/android_hardware_mithorium-4.9" remote="github" clone-depth="1" revision="lineage-19.1-k4.9" />
 
 <!-- GPS -->
-<project path="hardware/qcom/gps-legacy" name="AOSPA/android_hardware_qcom_gps" remote="github" revision="topaz-legacy-component" />
+<project path="hardware/qcom-caf/gps-legacy" name="AOSPA/android_hardware_qcom_gps" remote="github" revision="topaz-legacy-component" />
    
 <!-- Device -->
 <project path="device/xiaomi/mi439" name="MI439-CLO/android_device_xiaomi_mi439" remote="github" revision="tm" />
