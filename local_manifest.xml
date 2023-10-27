@@ -11,15 +11,15 @@
 <project path="hardware/mithorium" name="MI439-CLO/android_hardware_mithorium-4.9" remote="github" clone-depth="1" revision="lineage-19.1-k4.9" />
 
 <!-- GPS -->
-<project path="hardware/qcom-caf/gps-legacy" name="MI439-CLO/android_hardware_qcom_gps" remote="github" revision="topaz-legacy-component" />
+<project path="hardware/qcom-caf/gps-legacy" name="AOSPA/android_hardware_qcom_gps" remote="github" revision="uvite-legacy-component" />
    
 <!-- Device -->
 <project path="device/xiaomi/mi439" name="MI439-CLO/device_xiaomi_mi439" remote="github" revision="tm2" />
-<project path="device/qcom/common" name="MI439-CLO/device_qcom_common" remote="github" revision="tm" />
+<project path="device/qcom/common" name="MI439-CLO/device_qcom_common" remote="github" revision="udc" />
 
 <!--- Vendor Blobs -->
 <project path="vendor/xiaomi" name="ThankYouMario/proprietary_vendor_xiaomi" remote="github" clone-depth="1" revision="topaz" />
-<project path="vendor/qcom/common" name="ThankYouMario/proprietary_vendor_qcom_common" remote="github" clone-depth="1" revision="topaz" />
+<project path="vendor/qcom/common" name="ThankYouMario/proprietary_vendor_qcom_common" remote="github" clone-depth="1" revision="uvite" />
 
 <!-- Vendor Opensource -->
 <project path="vendor/qcom/opensource/core-utils" name="PixelExperience/vendor_qcom_opensource_core-utils" remote="github" revision="thirteen" />
