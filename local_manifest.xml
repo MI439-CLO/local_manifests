@@ -8,7 +8,7 @@
 <project path="kernel/xiaomi/sdm439" name="MI439-CLO/android_kernel_xiaomi_sdm439" remote="github" clone-depth="1" revision="topaz" />
 
 <!-- HALs -->
-<project path="hardware/mithorium" name="MI439-CLO/android_hardware_mithorium-4.9" remote="github" clone-depth="1" revision="lineage-19.1-k4.9" />
+<project path="hardware/mithorium-4.19" name="MI439-CLO/android_hardware_mithorium-4.19" remote="github" clone-depth="1" revision="udc-k4.19" />
 
 <!-- GPS -->
 <project path="hardware/qcom-caf/gps-legacy" name="AOSPA/android_hardware_qcom_gps" remote="github" revision="uvite-legacy-component" />
@@ -18,7 +18,7 @@
 <project path="device/qcom/common" name="MI439-CLO/device_qcom_common" remote="github" revision="udc" />
 
 <!--- Vendor Blobs -->
-<project path="vendor/xiaomi" name="ThankYouMario/proprietary_vendor_xiaomi" remote="github" clone-depth="1" revision="uvite" />
+<project path="vendor/xiaomi" name="LOLZKERNEL/proprietary_vendor_xiaomi" remote="github" clone-depth="1" revision="udc" />
 <project path="vendor/qcom/common" name="ThankYouMario/proprietary_vendor_qcom_common" remote="github" clone-depth="1" revision="uvite" />
 
 <!-- Vendor Opensource -->
