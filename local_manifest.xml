@@ -22,6 +22,6 @@
 <project path="vendor/qcom/common" name="ThankYouMario/proprietary_vendor_qcom_common" remote="github" clone-depth="1" revision="uvite" />
 
 <!-- Vendor Opensource -->
-<project path="vendor/qcom/opensource/core-utils" name="AOSPA/android_vendor_qcom-opensource_core-utils" remote="github" revision="uvite" />
+<project path="vendor/qcom/opensource/core-utils" name="MI439-CLO/android_vendor_qcom-opensource_core-utils" remote="github" revision="uvite" />
 
 </manifest>
